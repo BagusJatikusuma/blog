@@ -29,6 +29,8 @@ url: "https://bagusjatikusuma.github.io" # the base hostname & protocol for your
 twitter_username: JatikusumaBagus
 github_username:  BagusJatikusuma
 
+remote_theme: thelehhman/plainwhite-jekyll
+
 plainwhite:
   name: Bagus Jatikusuma
   tagline: Developer
