@@ -42,8 +42,8 @@ plainwhite:
     linkedIn: in/BagusJatikusuma # format: locale/username
 
 # Build settings
-#theme: minima
-theme: plainwhite
+theme: minima
+#theme: plainwhite
 plugins:
   - jekyll-feed
 
